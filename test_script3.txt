@@ -1,0 +1,5 @@
+# Тестовый скрипт 3 с ошибкой
+ls
+invalid_command
+cd /tmp
+conf-dump
