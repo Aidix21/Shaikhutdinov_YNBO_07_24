@@ -1,0 +1,5 @@
+# Тестовый скрипт 2
+conf-dump
+cd /var/log
+ls
+pwd
