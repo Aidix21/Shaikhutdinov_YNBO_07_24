@@ -1,0 +1,5 @@
+# Тестовый скрипт 1
+ls
+cd /home/user
+conf-dump
+ls -la
